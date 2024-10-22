@@ -1,0 +1,9 @@
+C:\Users\LECCESE\source\repos\TPFinalNivel2_Leccese\Negocio\bin\Debug\Negocio.dll
+C:\Users\LECCESE\source\repos\TPFinalNivel2_Leccese\Negocio\bin\Debug\Negocio.pdb
+C:\Users\LECCESE\source\repos\TPFinalNivel2_Leccese\Negocio\bin\Debug\dominio.dll
+C:\Users\LECCESE\source\repos\TPFinalNivel2_Leccese\Negocio\bin\Debug\dominio.pdb
+C:\Users\LECCESE\source\repos\TPFinalNivel2_Leccese\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\LECCESE\source\repos\TPFinalNivel2_Leccese\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\LECCESE\source\repos\TPFinalNivel2_Leccese\Negocio\obj\Debug\Negocio.csproj.Up2Date
+C:\Users\LECCESE\source\repos\TPFinalNivel2_Leccese\Negocio\obj\Debug\Negocio.dll
+C:\Users\LECCESE\source\repos\TPFinalNivel2_Leccese\Negocio\obj\Debug\Negocio.pdb

@@ -1,0 +1,16 @@
+C:\Users\LECCESE\source\repos\TPFinalNivel2_Leccese\Front\bin\Debug\Front.exe.config
+C:\Users\LECCESE\source\repos\TPFinalNivel2_Leccese\Front\bin\Debug\Front.exe
+C:\Users\LECCESE\source\repos\TPFinalNivel2_Leccese\Front\bin\Debug\Front.pdb
+C:\Users\LECCESE\source\repos\TPFinalNivel2_Leccese\Front\bin\Debug\dominio.dll
+C:\Users\LECCESE\source\repos\TPFinalNivel2_Leccese\Front\bin\Debug\Negocio.dll
+C:\Users\LECCESE\source\repos\TPFinalNivel2_Leccese\Front\bin\Debug\dominio.pdb
+C:\Users\LECCESE\source\repos\TPFinalNivel2_Leccese\Front\bin\Debug\Negocio.pdb
+C:\Users\LECCESE\source\repos\TPFinalNivel2_Leccese\Front\obj\Debug\Front.csproj.AssemblyReference.cache
+C:\Users\LECCESE\source\repos\TPFinalNivel2_Leccese\Front\obj\Debug\Front.Catalogo.resources
+C:\Users\LECCESE\source\repos\TPFinalNivel2_Leccese\Front\obj\Debug\Front.Properties.Resources.resources
+C:\Users\LECCESE\source\repos\TPFinalNivel2_Leccese\Front\obj\Debug\Front.csproj.GenerateResource.cache
+C:\Users\LECCESE\source\repos\TPFinalNivel2_Leccese\Front\obj\Debug\Front.csproj.CoreCompileInputs.cache
+C:\Users\LECCESE\source\repos\TPFinalNivel2_Leccese\Front\obj\Debug\Front.csproj.Up2Date
+C:\Users\LECCESE\source\repos\TPFinalNivel2_Leccese\Front\obj\Debug\Front.exe
+C:\Users\LECCESE\source\repos\TPFinalNivel2_Leccese\Front\obj\Debug\Front.pdb
+C:\Users\LECCESE\source\repos\TPFinalNivel2_Leccese\Front\obj\Debug\Front.frmAltaArt.resources
